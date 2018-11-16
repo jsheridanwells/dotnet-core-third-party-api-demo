@@ -7,4 +7,4 @@ Following this tutorial:
 https://github.com/donbavand/Giphy
 
 To get it to work for yourself, get a Giphy api key and add it to the empty constant in  
-\third-party-api-demo\Giphy.Lib\Giphy\GetRandomGif.cs
+`Giphy.Lib\Giphy\GetRandomGif.cs`
